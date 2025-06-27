@@ -30,3 +30,6 @@ layout: page
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://viphzz.github.io">此网站建于2025年6月27日 </a>
 <br>
 thanks to <a href="https://caihanlin.com">Hanlin CAI</a>
+<br>
+<br>
+谢谢你看到这里，祝学业有成，功成名就。我们后会有期！
