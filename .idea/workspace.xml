@@ -16,10 +16,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f920e74b-b2c1-48b2-9d1a-c9834de4255b" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/images/logo/QQ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/huozz.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/author-bio.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/author-bio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +69,7 @@
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/文档/GitHub/viphzz.github.io/images/logo",
+    "last_opened_file_path": "D:/文档/GitHub/viphzz.github.io/images",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -80,8 +80,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\文档\GitHub\viphzz.github.io\images\logo" />
       <recent name="D:\文档\GitHub\viphzz.github.io\images" />
+      <recent name="D:\文档\GitHub\viphzz.github.io\images\logo" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\文档\GitHub\viphzz.github.io\images\logo" />
@@ -97,7 +97,7 @@
       <updated>1667046162046</updated>
       <workItem from="1667046175596" duration="621000" />
       <workItem from="1750998554406" duration="170000" />
-      <workItem from="1751000481595" duration="5761000" />
+      <workItem from="1751000481595" duration="6641000" />
     </task>
     <servers />
   </component>
