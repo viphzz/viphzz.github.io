@@ -6,10 +6,8 @@ layout: page
 
 <img src="https://viphzz.github.io/images/huozz.jpg" class="floatpic">
 
-我是 **霍肇治**。<br>
-籍贯：河北邢台（[这么近那么美，周末到河北！](https://www.bilibili.com/video/BV1Gd4y1b7BW/?spm_id_from=333.337.search-card.all.click&vd_source=f7e0a5f8eb56233b79121c4a0a6050db)）<br>
-07年生 <br>
-[ENTJ人格](https://www.16personalities.com/ch/entj-%E4%BA%BA%E6%A0%BC)
+我是 **霍肇治**。二零零七年生于河北邢台（[这么近那么美，周末到河北！](https://www.bilibili.com/video/BV1Gd4y1b7BW/?spm_id_from=333.337.search-card.all.click&vd_source=f7e0a5f8eb56233b79121c4a0a6050db)）<br>
+[ENTJ人格](https://www.16personalities.com/ch/entj-%E4%BA%BA%E6%A0%BC)，共青团员
 
 ---
 
