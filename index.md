@@ -2,17 +2,14 @@
 layout: page
 ---
 
-# 关于我
+# About Me
 
 <img src="https://viphzz.github.io/images/huozz.jpg" class="floatpic">
 
-Here is **ZhaoZhi Huo (霍肇治)**.<br>
-
-I am a graduate student in the [Internet of Everything Group](https://ioe.eng.cam.ac.uk/) at the University of Cambridge, supervised by [Prof. Ozgur Akan](https://ioe.eng.cam.ac.uk/directory/akan), and funded by the Cambridge Trust and CSC Scholarships. I also had the pleasure of participating in a summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at the [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/).
-
-Prior to Cambridge, I have worked on wireless networks, cybersecurity, and machine learning under the guidance of [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Besides, I was honored to be selected as an Undergraduate Scholar at the leading conferences AAAI 2024 and SIGKDD 2024.
-
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at — **hc663 [at] cam.ac.uk**
+我是 **霍肇治**。<br>
+籍贯：河北邢台（[这么近那么美，周末到河北！](https://www.bilibili.com/video/BV1Gd4y1b7BW/?spm_id_from=333.337.search-card.all.click&vd_source=f7e0a5f8eb56233b79121c4a0a6050db)）<br>
+07年生 <br>
+[ENTJ人格](https://www.16personalities.com/ch/entj-%E4%BA%BA%E6%A0%BC)
 
 ---
 
