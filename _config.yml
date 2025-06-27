@@ -7,14 +7,14 @@ description: Two roads diverged in woods, I took the one less traveled by.  # St
 
 # TIP ── For local development you can comment out `url`
 # and build with relative paths. In production you want this set.
-url: https://caihanlin.com
+url: https://viphzz.github.io/
 
 # --------------------------------------------------
 #  AUTHOR / PROFILE DATA
 # --------------------------------------------------
 owner:
-  name: Hanlin Cai
-  avatar: hanlin.jpg
+  name: ZhaoZhi Huo
+  avatar: 个人头像.jpg
   # bio: Dream big, stay positive, work hard, and enjoy the journey.
   email: hc663@cam.ac.uk
   cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
