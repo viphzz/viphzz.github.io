@@ -53,14 +53,14 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 links:
   - title: About Me
     url: /
-  - title: 论文
-    url: /publications/
-  - title: 获奖
-    url: /awards/
+ # - title: 论文
+ #   url: /publications/
+ # - title: 获奖
+#    url: /awards/
   - title: 爱好
     url: /hobbies/
-  - title: 博客
-    url: /blogs/
+#  - title: 博客
+#    url: /blogs/
   #- title: 中文
   #  url: /cn/
 
