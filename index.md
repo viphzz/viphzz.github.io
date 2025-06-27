@@ -4,7 +4,7 @@ layout: page
 
 # 关于我
 
-<img src="https://viphzz.github.io/huozz.jpg" class="floatpic">
+<img src="https://viphzz.github.io/images/huozz.jpg" class="floatpic">
 
 Here is **ZhaoZhi Huo (霍肇治)**.<br>
 
